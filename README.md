@@ -4,7 +4,9 @@ C++ project for the MAC Formula Electric Application
 ## Compile
 ```bash
 clang++ -std=c++17 main.cpp -o hello_demo
+```
 
 ## Run
 ```bash
 ./hello_demo
+```
